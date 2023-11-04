@@ -1,5 +1,5 @@
 /* Add a background color to the header element */
-h1 {
+header {
     color: purple;
 }
 /* Add a fun background color to the main element */ 
@@ -28,5 +28,5 @@ li {
 }
 /* Add a background color to the footer element */
 footer { 
-    background-color: darkmagenta
+    background-color: black
     ;}
