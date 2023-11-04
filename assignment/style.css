@@ -27,3 +27,6 @@ li {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 /* Add a background color to the footer element */
+footer { 
+    background-color: darkmagenta
+    ;}
