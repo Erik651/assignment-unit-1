@@ -17,6 +17,10 @@ p { color: blueviolet
         font-style: italic;
     }
 /* Put a border around your image */
+img {
+    border: 6px soild ghostwhite;
+}
+
 
 /* Change the font-family of your list */
 
