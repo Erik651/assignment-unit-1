@@ -2,6 +2,9 @@
 header {
     color: purple;
 }
+header {
+    background-color: indianred;
+}
 /* Add a fun background color to the main element */ 
 main {
     background-color: goldenrod;
